@@ -112,3 +112,5 @@ class ActorsViewSet(viewsets.ReadOnlyModelViewSet):
 #     """Вывод актера или режиссера"""
 #     queryset = Actor.objects.all()
 #     serializer_class = ActorDetailSerializer
+
+#asda
